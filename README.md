@@ -1,3 +1,3 @@
 # caseyisgreat
 
-Casey is a guru.
+Casey is a guru. Github is easy.
